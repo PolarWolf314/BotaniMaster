@@ -1,4 +1,4 @@
-# dart
+# BotaniMaster
 
 A game where you collect plants.
 
